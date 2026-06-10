@@ -10,6 +10,6 @@
 -   I have done a project in creating and accessing immersive educational and training experiences using augmented reality (AR), virtual reality (VR), and mixed       reality (XR).
 
 - 🤔 I’m looking for internship in IT.
-- 📫 How to reach me: grgkrish531@gmail.com
+- 📫 How to reach me: grgkrish124@gmail.com or lgurungkrish@gmail.com
 - ⚡ Fun fact: I love to play football, singing, dancing and watching movies and anime.
 -->
