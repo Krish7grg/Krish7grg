@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Krish.
 
-- 🔭 I’m currently working on my final dissertation.
-- 🌱 I’m currently learning Artificial Intelligence.
+- 🔭 I am a currently graduated student in computer science.
+- 🌱 I have learned Artificial Intelligence and build my final project.
 -   I have worked as junior lab techician at my university.
 -   I have built a restaurant website using HTML, CSS and JavaScript in Java.
 -   I have built full stack application using React and MongoDB.
